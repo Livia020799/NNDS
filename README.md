@@ -150,5 +150,5 @@ Since this is a text generation task, an RNN (or a simple **LSTM**/**GRU**) woul
 
 ### **Dataset and repositories**
 
-[Possible repository to have a look for the code](https://huggingface.co/datasets/davanstrien/haiku_dpo)
+[Possible repository to have a look for the code](https://huggingface.co/datasets/davanstrien/haiku_dpo) <br>
 [Possible Dataset of haiku in japanese](https://github.com/Livia020799/Haiku_NNDS) 
