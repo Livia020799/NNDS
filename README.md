@@ -147,3 +147,8 @@ Since this is a text generation task, an RNN (or a simple **LSTM**/**GRU**) woul
    - Fine-tune the model based on the quality of generated Haiku.
 
 ---
+
+### **Dataset and repositories**
+
+[Possible repository to have a look for the code](https://huggingface.co/datasets/davanstrien/haiku_dpo)
+[Possible Dataset of haiku in japanese](https://github.com/Livia020799/Haiku_NNDS) 
