@@ -22,6 +22,6 @@ You can find further details of the individual points to cover in the Final proj
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Exam Score and Project Usage**
-**Both the first homework and the final project received a perfect score, 5 out of 5 for the homework and 10 out of 10 for the project.. The overall score, including the oral exam, was 30/30, and the project was recognized as one of the best among all projects in the February exam session.** Feel free to use it as a reference if you are planning to take the exam in the upcoming years.<br> 
+**Both the first homework and the final project received a perfect score, 5 out of 5 for the homework and 10 out of 10 for the project. The overall score, including the oral exam, was 30/30, and the project was recognized as one of the best among all projects in the February exam session.** Feel free to use it as a reference if you are planning to take the exam in the upcoming years.<br> 
 Please do not hesitate to contact me if you need further explanations or encounter any issues with the materials.
 
